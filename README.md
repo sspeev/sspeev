@@ -1,15 +1,15 @@
-  <h2>💫 About Me:</h2>
+<h2>💫 About Me:</h2>
   <p>I am C# full-stack web developer and I love F1 and racing</p>
   <section>
       <h2>🌐 Socials:</h2>
-      <a href="https://facebook.com/stoyan.peev.520" target="_blank" rel="noreferrer"> 
+      <a href="https://facebook.com/stoyan.peev.520" target="_blank" rel="noreferrer">
           <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/512px-Facebook_f_logo_%282021%29.svg.png?20210818083032" alt="Facebook" width="70" height="70"/>
       </a>
-      <a href="https://instagram.com/_stoyan.peev.520_" target="_blank" rel="noreferrer"> 
+      <a href="https://instagram.com/_stoyan.peev.520_" target="_blank" rel="noreferrer">
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png?20210403190622" alt="Instagram" width="70" height="70"/>
       </a>
-      <a href="https://linkedin.com/in/stoyan-peev-7777bb285" target="_blank" rel="noreferrer"> 
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/291px-LinkedIn_Logo.svg.png?20170711102837" alt="LinkedIn" width="291" height="79"/>
+      <a href="https://linkedin.com/in/stoyan-peev-7777bb285" target="_blank" rel="noreferrer">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png?20210220164014" alt="LinkedIn" width="70" height="70"/>
       </a>
   </section>
   <h2>💻 Tech Stack:</h2>
@@ -55,9 +55,6 @@
       <hr color="white">
       <h3>Database</h3>
       <div>
-          <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/>
-          </a>
           <a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16" target="_blank" rel="noreferrer">
               <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" alt="sql managment studio" width="70" height="70"/>
           </a>
@@ -83,15 +80,14 @@
           </a> 
       </div>
   </div>
+
   # 📊 GitHub Stats:
-  ![](https://github-readme-stats.vercel.app/api?username=sspeev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=sspeev&theme=tokyonight&hide_border=true)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sspeev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api?username=sspeev&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=sspeev&theme=dark&hide_border=true)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sspeev&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
   ## 🏆 GitHub Trophies
-  ![](https://github-profile-trophy.vercel.app/?username=sspeev&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+  ![](https://github-profile-trophy.vercel.app/?username=sspeev&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
   ### 🔝 Top Contributed Repo
-  ![](https://github-contributor-stats.vercel.app/api?username=sspeev&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  ![](https://github-contributor-stats.vercel.app/api?username=sspeev&limit=5&theme=dark&combine_all_yearly_contributions=true)
