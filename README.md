@@ -1,5 +1,5 @@
 <h2>💫 About Me:</h2>
-  <p>I am C# full-stack web developer and I love F1 and racing</p>
+  <p>I am C# back-end web developer and I love F1 and racing</p>
   <section>
       <h2>🌐 Socials:</h2>
       <a href="https://facebook.com/stoyan.peev.520" target="_blank" rel="noreferrer">
