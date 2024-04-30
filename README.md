@@ -18,9 +18,6 @@
       <div>
           <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
-          </a>     
-          <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="50"height="50"/>
           </a>
           <a href="https://visualstudio.microsoft.com/vs/" target="_blank" rel="noreferrer">
               <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1024px-Visual_Studio_Icon_2022.svg.png?20221004110509" alt="visual Studio" height="50" width="50">
