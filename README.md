@@ -25,6 +25,9 @@
           <a href="https://visualstudio.microsoft.com/vs/" target="_blank" rel="noreferrer">
               <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1024px-Visual_Studio_Icon_2022.svg.png?20221004110509" alt="visual Studio" height="50" width="50">
           </a>
+        <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM-te3cOf127nhnfo3CACQzL-0rQlZlOawhruY3O7VD2AH77Yk1ynU7UHW_YfEcW84fmc&usqp=CAU" target="_blank" rel="noreferrer">
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM-te3cOf127nhnfo3CACQzL-0rQlZlOawhruY3O7VD2AH77Yk1ynU7UHW_YfEcW84fmc&usqp=CAU" alt="asp.net" height="50" width="50">
+          </a>
       </div>
       <hr color="white">
       <h3>Basic skills:</h3>
