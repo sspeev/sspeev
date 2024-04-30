@@ -51,9 +51,6 @@
           <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
           </a> 
-          <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" alt="vs code" width="50" height="50"/>
-          </a>
         <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" target="_blank" rel="noreferrer">
               <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" alt="visual Studio" height="50" width="60">
           </a>
@@ -70,6 +67,9 @@
       <div>
           <a href="https://unity.com/" target="_blank" rel="noreferrer">
               <img src="https://upload.vectorlogo.zone/logos/unity3d/images/33965117-e670-4b9a-88ef-084ee868bbf8.svg" alt="unity" width="50" height="50"/>
+          </a>
+        <a href="[https://unity.com/](https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png)" target="_blank" rel="noreferrer">
+              <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="unity" width="50" height="50"/>
           </a>
       </div>
       <hr color="white">
