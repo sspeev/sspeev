@@ -23,8 +23,8 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM-te3cOf127nhnfo3CACQzL-0rQlZlOawhruY3O7VD2AH77Yk1ynU7UHW_YfEcW84fmc&usqp=CAU" alt="asp.net" height="40" width="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" alt="asp.net" height="40" width="40">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/devicons/devicon/blob/v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/devicons/devicon/blob/v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
       <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="sql managment studio" width="40" height="40"/>
     </picture>
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="csharp" width="40" height="40"/>
