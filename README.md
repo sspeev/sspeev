@@ -33,7 +33,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://logos-world.net/wp-content/uploads/2021/11/Unity-New-Logo.png">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg">
-      <img alt="Theme-based icon" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-line.svg" width="40" height="40">
+      <img alt="Theme-based icon" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-line.svg" width="55" height="40">
     </picture>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="blender" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="blender" width="40" height="40"/>
