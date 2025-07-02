@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning **ASP.NET CORE and Front-end Technologies**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
-
-- ⚡ Fun fact **I love building web applications and games (mostly simulators)!**
   
   <section>
       <h2>🌐 Socials:</h2>
