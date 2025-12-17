@@ -1,8 +1,7 @@
 <h1 align="center">💫 About Me:</h1>
 
-- I'm C# back-end web developer and I love F1 and racing</h3>
-- Currently learning **ASP.NET CORE and Front-end Technologies**
-- I’m looking to collaborate on **Web Development Projects**
+- I'm web developer who loves F1 and racing</h3>
+- I’m looking to collaborate...
   
   <section>
       <h2>🌐 Socials:</h2>
