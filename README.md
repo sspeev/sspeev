@@ -17,7 +17,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1024px-Visual_Studio_Icon_2022.svg.png" alt="visual Studio" height="40" width="40">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM-te3cOf127nhnfo3CACQzL-0rQlZlOawhruY3O7VD2AH77Yk1ynU7UHW_YfEcW84fmc&usqp=CAU" alt="asp.net" height="40" width="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" alt="asp.net" height="40" width="40">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/devicons/devicon/blob/v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/devicons/devicon/blob/v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
