@@ -20,9 +20,9 @@
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg">
       <img alt="Theme-based icon" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-line.svg" width="55" height="40">
     </picture>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="blender" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="blender" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="blender" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="googleCloud" width="40" height="40"/>
   </div>
 
   # 📊 GitHub Stats:
