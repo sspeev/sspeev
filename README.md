@@ -21,7 +21,7 @@
       <h2 align="center">🌟 Notable Projects</h2>
       <p align="center">
         <a href="https://online-belote-sspeevs-projects.vercel.app" target="Online Belote">
-          <img src="https://online-belote-sspeevs-projects.vercel.app/favicon.ico" width="40" height="40" alt="Favicon" />  
+          <img src="https://online-belote-sspeevs-projects.vercel.app/favicon.svg" width="40" height="40" alt="Favicon" />  
         </a>
       </p>
     </td>
