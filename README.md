@@ -23,6 +23,9 @@
         <a href="https://online-belote-sspeevs-projects.vercel.app" target="Online Belote">
           <img src="https://online-belote-sspeevs-projects.vercel.app/favicon.svg" width="40" height="40" alt="Favicon" />  
         </a>
+        <a href="https://github.com/sspeev/F1-Balkan-Edition/releases/tag/v2.0.0" target="F1 Balkan Edition">
+          <img src="https://images.cults3d.com/Cm_R664QHwGLKHZQAvfU2t9xqGE=/516x516/filters:no_upscale():format(webp)/https://fbi.cults3d.com/uploaders/27645397/illustration-file/a4c53622-e687-4908-b364-78e202289b5e/Screenshot-2025-03-26-094358.png" width="50" height="40" alt="Favicon" />  
+        </a>
       </p>
     </td>
     <td>
