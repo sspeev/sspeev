@@ -1,19 +1,23 @@
 <img width="1024" height="434" alt="image" src="https://github.com/user-attachments/assets/34fedff2-ec21-493f-addd-014e732adfd1" />
 <table align="center">
+  <tr valign="top">
+     <h2 align="center">🚀 Tech Stack and Stats 📈</h2>
+  </tr>
   <tr>
-    <td valign="top" width="50%">
-      <h2 align="center">🚀 My Tech Stack</h2>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=dotnet,react,typescript,tailwindcss,c,cpp,cs,arduino,docker,gcp,githubactions,unity,n8n" />
-      </p>
+    <td width="50%" align="center">
+      <img src="htps://skillicons.dev/icons?i=dotnet,c,cpp,cs,react,typescript,bun,npm,tailwindcss,sass" />
+      <img src="https://skills.syvixor.com/api/icons?i=dotnet,c,cpp,csharp,react,typescript,bun,npm,tailwindcss,sass" />
       <br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sspeev&layout=compact&theme=tokyonight" alt="Top Languages" />
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sspeev&layout=compact&theme=tokyonight" alt="Top Languages" />
     </td>
-    <td valign="top" width="50%">
-      <h2 align="center">📈 My GitHub Stats</h2>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=sspeev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-      </p>
+    <td width="50%" align="center">
+      <br/>
+      <img src="htps://skillicons.dev/icons?i=postgres,arduino,docker,gcp,githubactions,unity,blender" />
+      <img src="https://skills.syvixor.com/api/icons?i=gsap,n8n,postgresql,sqlserver,arduino,docker,gcp,githubactions,unity,blender" />
+      <br/>
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api?username=sspeev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
     </td>
   </tr>
   <tr>
