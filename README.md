@@ -4,7 +4,7 @@
     <td valign="top" width="50%">
       <h2 align="center">🚀 My Tech Stack</h2>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=dotnet,react,typescript,tailwindcss,c,cpp,cs,arduino,docker,gcp,githubactions" />
+        <img src="https://skillicons.dev/icons?i=dotnet,react,typescript,tailwindcss,c,cpp,cs,arduino,docker,gcp,githubactions,unity,n8n" />
       </p>
       <br/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sspeev&layout=compact&theme=tokyonight" alt="Top Languages" />
